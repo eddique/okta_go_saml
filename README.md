@@ -1,4 +1,5 @@
 # Creating an SAML Okta Web App with Go
+<img src="./img/golang.png">
 This is a tutorial for creating a server to integrat SPA's into Okta with SAML authentication. This assumes you have a production dist/ directory already. Move your dist/ folder into the root directory.
 
 ## Quick Start
